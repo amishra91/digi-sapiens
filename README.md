@@ -57,7 +57,7 @@ You have two options to run the backend: either directly on your local machine o
    docker run -p 8000:8000 ipa-to-sampa
    ```
 
-   This command will start the FastAPI server inside a Docker container, and it will be accessible at [http://localhost:8000](http://localhost:8000).
+   This command will start the FastAPI server inside a Docker container, and it will be accessible at [http://localhost:8000/docs](http://localhost:8000).
 
 ### API Endpoints
 
